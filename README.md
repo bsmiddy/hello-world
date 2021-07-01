@@ -1,3 +1,3 @@
 # hello-world
-Test Repository
+Test Repository:
 A test respository to get a feel of github
